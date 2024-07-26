@@ -1,0 +1,1 @@
+update `cidade` set `nome` = 'Porecatu Lindona' where `id` like '%catu%';

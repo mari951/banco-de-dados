@@ -1,0 +1,1 @@
+select * from`cidade` estado`nome`like 'rio%';and`cidade`.`of
